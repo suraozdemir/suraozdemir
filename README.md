@@ -3,10 +3,10 @@
  <img align="left" height="200" alt="guy" width="300" src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" /> </a>
 
 <h2 align="center">Some info about me </h2>
-<p align="center"> I graduated from Gaziantep University, Department of Industrial Engineering in 2019.</p>
-<p align="center">I worked as an incentive specialist in the manufacturing industry for a while.</p>
-<p align="center">In 2022, I changed fields and became interested in android application development.</p>
-<p align="center">My career goals include becoming an Android Developer and I am working on this.</p>
+<p> I graduated from Gaziantep University, Department of Industrial Engineering in 2019.</p>
+<p>I worked as an incentive specialist in the manufacturing industry for a while.</p>
+<p>In 2022, I changed fields and became interested in android application development.</p>
+<p>My career goals include becoming an Android Developer and I am working on this.</p>
 
 
 
