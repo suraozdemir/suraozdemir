@@ -3,7 +3,7 @@
  <img align="left" height="200" alt="guy" width="300" src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" /> </a>
 
 <h2 align="center">Some info about me </h2>
-<p> I graduated from Gaziantep University, Department of Industrial Engineering in 2019.I worked as an incentive specialist in the manufacturing industry for a while.In 2022, I changed fields and became interested in android application development.My career goals include becoming an Android Developer and I am working on this.</p>
+<p align = "center"> I graduated from Gaziantep University, Department of Industrial Engineering in 2019.I worked as an incentive specialist in the manufacturing industry for a while.In 2022, I changed fields and became interested in android application development.My career goals include becoming an Android Developer and I am working on this.</p>
 
 ___
 
