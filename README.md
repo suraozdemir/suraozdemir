@@ -3,11 +3,6 @@
 <h2 align="center">Some info about me </h2>
 <p align = "center"> I graduated from Gaziantep University, Department of Industrial Engineering in 2019. I worked as an incentive specialist in the manufacturing industry for a while. In 2022, I changed fields and became interested in android application development. My career goals include becoming an Android Developer and I am working on this.                                                                            </p>
 
-___
-___
-___
-___
-
 <h2 align = "left"> Accounts:</h2>
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@suraozdemir095) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/suraozdemir095?hr_r=1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-035a7d?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/şura-özdemir-242a011b6/)
