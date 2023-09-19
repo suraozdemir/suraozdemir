@@ -10,4 +10,3 @@ ___
 <h2 align = "left">Languages and Tools:</h2>
 
 <img width="48" height="48" src="https://img.icons8.com/color/48/android-studio--v2.png" alt="android-studio--v2"/> <img width="48" height="48" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/> <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/> 
-___ 
