@@ -1,9 +1,28 @@
 <h1 align="center">I'm Şura 👋  Welcome to my Github profile. 🎈</h1>
- <img align="left" height="270" alt="wmn" width="470" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" /> </a>
+ <img align="left" height="280" alt="wmn" width="280" src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" /> </a>
 <h2 align="center">Some info about me </h2>
-<p align = "right"> I graduated from Gaziantep University, Department of Industrial Engineering in 2019. I worked as an incentive specialist in the manufacturing industry for a while. In 2022, I changed fields and became interested in android application development. My career goals include becoming an Android Developer and I am working on this.</p>
+<p align = "right"> I graduated from Gaziantep University, Department of Industrial Engineering in 2019.I am trained in Android application development, I have certificates from various sources (UP  School, Udemy, BTK Academy) and I have projects related to this. I also have experience in ERP and R&D projects. So, I am professional in Project Management. My goal is to continuously learn and improve, making meaningful contributions in the software industry and being part of successful projects. </p>
 
 ___
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h2 align = "left"> Accounts:</h2>
 
@@ -12,3 +31,6 @@ ___
 <h2 align = "left">Languages and Tools:</h2>
 
 <img width="48" height="48" src="https://img.icons8.com/color/48/android-studio--v2.png" alt="android-studio--v2"/> <img width="48" height="48" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/> <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/> 
+
+
+
