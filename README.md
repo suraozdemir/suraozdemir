@@ -1,25 +1,8 @@
 <h1 align="center">I'm Şura 👋  Welcome to my Github profile. 🎈</h1>
- <img align="left" height="280" alt="wmn" width="280" src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" /> </a>
+ <img align="left" height="280" alt="wmn" width="280" src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" /> </a> 
+ ___
 <h2 align="center">Some info about me </h2>
 <p align = "right"> I graduated from Gaziantep University, Department of Industrial Engineering in 2019.I am trained in Android application development, I have certificates from various sources (UP  School, Udemy, BTK Academy) and I have projects related to this. I also have experience in ERP and R&D projects. So, I am professional in Project Management. My goal is to continuously learn and improve, making meaningful contributions in the software industry and being part of successful projects. </p>
-
-___
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
